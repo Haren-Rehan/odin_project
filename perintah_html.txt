@@ -16,5 +16,13 @@
 <img> : untuk menampilkan gambar
 src= : atribut untuk menentukan lokasi file gambar
 alt= : atribut untuk teks alternatif jika gambar gagal muat
+height= : atribut untuk mengatur tinggi gambar (dalam pixel)
+width= : atribut untuk mengatur lebar gambar (dalam pixel)
 <strong> : untuk menebalkan huruf (plus makna penting)
 <em> : untuk memiringkan huruf (plus makna penekanan)
+<ul> : untuk membuat daftar tidak berurutan (bullet points)
+<li> : untuk membuat item/isi di dalam daftar (ul atau ol)
+<ol> : untuk membuat daftar berurutan (angka 1,2,3,...)
+<a> : untuk membuat tautan/link ke halaman lain
+href= : atribut untuk menentukan alamat tujuan tautan
+target="_blank" : atribut untuk membuka tautan di tab baru
